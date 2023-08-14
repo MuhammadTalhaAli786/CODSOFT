@@ -24,3 +24,7 @@ During this internship, I'll be working on a series of projects and tasks relate
 I invite you to join me on this exciting journey! Feel free to connect with me here on GitHub or on https://www.linkedin.com/in/muhammad-talha-ali-961735281/, where I'll be sharing updates about my progress and insights from my internship experience.
 
 Thank you for your support, and let's make the most of this internship together! 🚀
+<<<<<<< HEAD
+=======
+
+>>>>>>> c0f7327307f503cb9aee821a0148cd0b7d85c89c
